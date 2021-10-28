@@ -108,8 +108,8 @@ const App = () => {
     return (
         <div className="App">
             <div className="container">
-                <p>Use Kovan Test Network to play</p>
                 <div className="header-container">
+                    <p>Use Kovan Test Network to play</p>
                     <p className="header gradient-text">⚔️ Monster Slayer ⚔️</p>
                     <p className="sub-text"></p>
                     <div className="connect-wallet-container">
